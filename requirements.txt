@@ -1,0 +1,2 @@
+# Requires: paradoxical-suspension
+# (Not available on PyPI)
